@@ -1,0 +1,50 @@
+[
+  {
+    "name": "DR. M. A. WADUD SARKER",
+    "post": "CEO, The Dental Care",
+    "des": "BDS, MPH (DHAKA), FICD (USA), FPFA (USA). Life Member Bangladesh Dental Society, ADA, IDA",
+    "img": "./doctors/doctor-1.png"
+  },
+  {
+    "name": "DR. M. A. SIKDER",
+    "post": "Senior Consultant",
+    "des": "BDS,  FPFA (USA). Life Member Bangladesh Dental Society, ADA, IDA",
+    "img": "./doctors/doctor-2.jpg"
+  },
+  {
+    "name": "DR. MD. ASIKUL WADUD",
+    "post": "Consultant",
+    "des": "Sc & Grad. Dip. in Clinical Science in Maxillofacial Prosthetics (MU, Thailand). Assistant Professor",
+    "img": "./doctors/doctor-3.png"
+  },
+  {
+    "name": "DR. MAHJABEEN HOSSAIN",
+    "post": "Consultant (Part Time)",
+    "des": "BDS (DU), MPH (NSU), M.Sc in Oral Biology (MU Thailand).",
+    "img": "./doctors/doctor-4.png"
+  },
+  {
+    "name": "DR. SALMA HAQ",
+    "post": "Dental Surgeon",
+    "des": "BDS, PGT in OMFS & Conservative Dentistry",
+    "img": "./doctors/doctor-5.png"
+  },
+  {
+    "name": "DR. M. A. WADUD SARKER",
+    "post": "CEO, The Dental Care",
+    "des": "BDS, MPH (DHAKA), FICD (USA), FPFA (USA). Life Member Bangladesh Dental Society, ADA, IDA",
+    "img": "./doctors/doctor-6.png"
+  },
+  {
+    "name": "DR. SUMAIYA TASNIM",
+    "post": "Dental Surgeon",
+    "des": "Life Member Bangladesh Dental Society",
+    "img": "./doctors/doctor-7.png"
+  },
+  {
+    "name": "DR. MAHBUBA IRIN RIFAT",
+    "post": "Dental Surgeon",
+    "des": "Department of Prosthodontics, Update Dental College & Hospital,",
+    "img": "./doctors/doctor-8.png"
+  }
+]
